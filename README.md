@@ -1,10 +1,10 @@
-# metro_ticketing_system_cli
+# metro-ticketing-system-cli
 CLI metro ticketing system with shortest-path calculation.
 
 ## Installation
 ```bash
-git clone https://github.com/brokenCart/metro_ticketing_system_cli.git
-cd metro_ticketing_system_cli
+git clone https://github.com/brokenCart/metro-ticketing-system-cli.git
+cd metro-ticketing-system-cli
 python -m venv venv
 source venv/bin/activate   # Mac/Linux
 venv\Scripts\activate      # Windows
